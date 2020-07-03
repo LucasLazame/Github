@@ -22,3 +22,10 @@ site do git hub
  `git log`// visualiza os pontos na linha do tempo / commit
  `git status` // informa o estado das alterações do nosso projeto
  `git show`// apresenta determinado ponto na historia 
+ `git branch`// gerenciar novas linhas do tempo
+ `git checkout`// manipula as linhas do tempo
+ `git merger`// unir linhas do tempo
+ `git push`// envia alterações locais para o reportório remoto
+ 
+
+ git config credential.helper store
